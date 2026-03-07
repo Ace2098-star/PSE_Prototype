@@ -17,3 +17,9 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 
 # SDLC Approach
 ---
+
+# Repository Structure
+/planning - planning documents
+/design - diagrams and UI mockups
+/testing - evaluation and testing evidence
+/final - final prototype and results

@@ -6,3 +6,4 @@ Class Diagram Draft:
 
 
 Class Diagram Finished Version:
+![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/d03f5d854b5186b99716ab8e4b5278ca88099c69/Screenshot%202026-03-07%20125112.png)

@@ -24,7 +24,7 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 ---
 
 # Repository Structure
-/planning - planning documents/t
-/design - diagrams and UI mockups
-/testing - evaluation and testing evidence
+/planning - planning documents  
+/design - diagrams and UI mockups  
+/testing - evaluation and testing evidence  
 /final - final prototype and results

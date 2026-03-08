@@ -2,7 +2,7 @@
 SDG 3: Good Health and Well-Being
 
 # Team Members
-## Aidan Ashwath Pereira (0380385)(Team Leader/Product Owner)
+### Aidan Ashwath Pereira (0380385)(Team Leader/Product Owner)
 - Responsible for product direction, product vision, class diagram, GitHub repository management.
 
 Fong Siow Chee Ren (0378588)(Development Team)

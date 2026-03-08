@@ -6,13 +6,13 @@ SDG 3: Good Health and Well-Being
 - Responsible for product direction, product vision, class diagram, GitHub repository management.
 
 ### Fong Siow Chee Ren (0378588)(Development Team)
-- Responsible for assignment report, software features and requirements, use case diagram. 
+- Responsible for assignment report, software features and requirements, use case diagram, class diagram. 
 
 ### Abdulrahman Mahgoub (0386447)(Development Team) 
 - Responsible for 
 
 ### Chan Li Jin (0388094)(Scrum Master) 
-- Responsible for software features, managing Agile process, Trello board, monitoring sprint progress.
+- Responsible for managing Agile process, Trello board, monitoring sprint progress.
 
 ### Maaz Khan (Development Team) 
 - Responsible for 

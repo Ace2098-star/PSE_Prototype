@@ -2,7 +2,7 @@
 
 ## Use Case Diagram Draft:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/0077d61d89251fbc8aa6a4eaddb90b2cacbd4454/IMG-20260306-WA0001.jpg)
-
+Actors and initial features implemented, two main actors which are Student and Staff. Staff consists of Counselors and Administrators. Features are added along with different operations for each actor. 
 
 
 ## Use Case Diagram Finalized Version:

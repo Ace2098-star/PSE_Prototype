@@ -13,11 +13,14 @@ Added feature of stress management tips, where students can view tips, save them
 
 ## Class Diagram Draft #1: 
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8c95fd90d6ff9f672931667ebb0385132785c19d/Screenshot%202026-03-05%20130309.png)
+Student, Counselor, and Administrator classes created as well as early association of the feature classes. Initial attributes and simple operations were constructed.
 
 
 ## Class Diagram Draft #2:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/d03f5d854b5186b99716ab8e4b5278ca88099c69/Screenshot%202026-03-07%20125112.png)
+Completed classes of users and features which are all well associated. Attributes and operations of all classes were added.
 
 
 ## Class Diagram Finalized Version:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8db31633a3024ad71ac76d40e6fb70d9cb4b9417/Screenshot%202026-03-09%20190027.png)
+User class was implemented to ensure inheritance for Student, Counselor, and Administrator classes. A single ClubsAndSocieties class was added to prevent class duplications, operations for both Student and Counselor have been merged. Multiplicity relationships between classes were included to finalize the diagram.

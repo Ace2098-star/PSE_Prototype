@@ -7,7 +7,7 @@
 
 ## Use Case Diagram Finalized Version:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/3c621e7d3f8f53c25ce686e1bd3108b868abb247/WhatsApp%20Image%202026-03-07%20at%2023.02.24.jpeg)
-
+Added feature of stress management tips, where students can view tips, save them and view the saved tips. 
 
 
 

@@ -6,9 +6,13 @@
 
 
 
-## Class Diagram Draft: 
+## Class Diagram Draft #1: 
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8c95fd90d6ff9f672931667ebb0385132785c19d/Screenshot%202026-03-05%20130309.png)
 
 
-## Class Diagram Finished Version:
+## Class Diagram Draft #2:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/d03f5d854b5186b99716ab8e4b5278ca88099c69/Screenshot%202026-03-07%20125112.png)
+
+
+## Class Diagram Finished Version:
+![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8db31633a3024ad71ac76d40e6fb70d9cb4b9417/Screenshot%202026-03-09%20190027.png)

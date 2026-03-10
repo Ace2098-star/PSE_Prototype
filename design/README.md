@@ -24,3 +24,8 @@ Completed classes of users and features which are all well associated. Attribute
 ## Class Diagram Finalized Version:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8db31633a3024ad71ac76d40e6fb70d9cb4b9417/Screenshot%202026-03-09%20190027.png)
 User class was implemented to ensure inheritance for Student, Counselor, and Administrator classes. A single ClubsAndSocieties class was added to prevent class duplications, operations for both Student and Counselor have been merged. Multiplicity relationships between classes were included to finalize the diagram.
+
+
+
+## BudCo Wireframes:
+![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg)

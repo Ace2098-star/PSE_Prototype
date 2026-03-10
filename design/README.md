@@ -29,4 +29,4 @@ User class was implemented to ensure inheritance for Student, Counselor, and Adm
 
 ## BudCo Wireframes:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg)
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg" width="400"> <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg" width="400">     <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/c94f9143f9bd9acd06d86b329f266af1df44e368/WhatsApp%20Image%202026-03-10%20at%2010.46.33.jpeg" width="400">

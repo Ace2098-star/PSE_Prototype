@@ -36,4 +36,5 @@ User class was implemented to ensure inheritance for Student, Counselor, and Adm
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/caf0d91afe94c27a71a63a6159a7e01de5035e32/WhatsApp%20Image%202026-03-10%20at%2010.46.35.jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/9a31e8df4bf8da3ee189f015f2d64afed6dba04b/WhatsApp%20Image%202026-03-10%20at%2010.46.35%20(1).jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/e651e4ad415fb69779bf12867e97ee342128dac8/WhatsApp%20Image%202026-03-10%20at%2010.46.35%20(2).jpeg" height="506" width="400">
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/e651e4ad415fb69779bf12867e97ee342128dac8/WhatsApp%20Image%202026-03-10%20at%2010.46.35%20(2).jpeg" height="506" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/20a018273bdfe7174b53f6f82803a7d217fe933a/WhatsApp%20Image%202026-03-10%20at%2010.46.36.jpeg" height="506" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/20a018273bdfe7174b53f6f82803a7d217fe933a/WhatsApp%20Image%202026-03-10%20at%2010.46.36.jpeg" height="506" width="400">

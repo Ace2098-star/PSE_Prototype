@@ -40,4 +40,4 @@ User class was implemented to ensure inheritance for Student, Counselor, and Adm
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/e958c86b4fc23530ca68f32630670bc558bb27c5/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(1).jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/6e26c14bda00fba1aa9e45b5a41b497d2933f7c7/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(2).jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/4728b388878682dfe8b687e710d8dcf2750a505d/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(3).jpeg" height="506" width="400">
-<img src="" height="506" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1968ebc4de54dcc088bf1c5be933dc799658a06f/WhatsApp%20Image%202026-03-10%20at%2010.46.37.jpeg" height="506" width="400">

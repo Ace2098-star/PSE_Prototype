@@ -18,3 +18,4 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/6cc4d91d2376615a10600464893582dc6d2fa5d9/WhatsApp%20Image%202026-03-11%20at%2021.40.51.jpeg)<br>
 
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8c2deeaa04e7f48882a1cee801fc7285dbc4d19c/Screenshot%202026-03-11%20183250.png)
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/8c2deeaa04e7f48882a1cee801fc7285dbc4d19c/Screenshot%202026-03-11%20183250.png" height="900" width="700">

@@ -21,7 +21,11 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/8c2deeaa04e7f48882a1cee801fc7285dbc4d19c/Screenshot%202026-03-11%20183250.png" height="900" width="700"><br><br>
 
 ### Sprints 1-4
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/7a0ffa85bfc09cee8d6f580b0082451044fee8d5/Screenshot%202026-03-11%20183320.png" height="1100" width="900"><br><br>
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/7a0ffa85bfc09cee8d6f580b0082451044fee8d5/Screenshot%202026-03-11%20183320.png" height="1100" width="900">
+Sprint 1: Completed on 28th February <br>
+Sprint 2: Completed on 5th March <br>
+Sprint 3: Completed on 9th March <br>
+Sprint 4: Completed on 11th March <br><br>
 
 ### In Progress/Completed/Issues
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/888fb4d71904e07457d2d9276f4bf10238e7d9ad/Screenshot%202026-03-11%20183347.png" height="1000" width="800"><br><br>

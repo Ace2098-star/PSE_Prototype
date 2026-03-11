@@ -26,5 +26,4 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 ### In Progress/Completed/Issues
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/888fb4d71904e07457d2d9276f4bf10238e7d9ad/Screenshot%202026-03-11%20183347.png" height="1000" width="800"><br><br>
 
-## Trello Link:
-https://trello.com/b/DhO0dF0B/pse-project-grp5
+## Trello Link: https://trello.com/b/DhO0dF0B/pse-project-grp5

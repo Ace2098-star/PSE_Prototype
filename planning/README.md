@@ -1,7 +1,7 @@
 # Planning folder for SDLC documents.
 
 ## SDG & Justification
-We will be focusing on SDG 3: Good Health and Well-Being. It aims to promote healthy lives and improve well-being for everyone. Nowadays, many individuals lack the proper tools to improve or maintain a healthy lifestyle. In addition, people around the world are very caught up in their jobs or studies, they spend most of their time to complete their daily responsibilities. This poses a serious problem when it comes to promoting healthy living. Without a proper support tool, it can lead to long term health issues.
+We will be focusing on SDG 3: Good Health and Well-Being. It aims to promote healthy lives and improve well-being for everyone. Nowadays, many individuals lack the proper tools to improve or maintain a healthy lifestyle. In addition, people around the world are very caught up in their jobs or studies, they spend most of their time to complete their daily responsibilities. This poses a serious problem when it comes to promoting healthy living. Without a proper support tool, it can lead to long term health issues.<br><br><br><br><br>
   
 
 

@@ -17,10 +17,14 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 ## Trello Progress (from 25th February)
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/6cc4d91d2376615a10600464893582dc6d2fa5d9/WhatsApp%20Image%202026-03-11%20at%2021.40.51.jpeg)<br><br>
 
+### User Stories/Product Backlog/To Do
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/8c2deeaa04e7f48882a1cee801fc7285dbc4d19c/Screenshot%202026-03-11%20183250.png" height="900" width="700"><br><br>
 
+### Sprints 1-4
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/7a0ffa85bfc09cee8d6f580b0082451044fee8d5/Screenshot%202026-03-11%20183320.png" height="1100" width="900"><br><br>
 
+### In Progress/Completed/Issues
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/888fb4d71904e07457d2d9276f4bf10238e7d9ad/Screenshot%202026-03-11%20183347.png" height="1000" width="800"><br><br>
 
+## Trello Link:
 https://trello.com/b/DhO0dF0B/pse-project-grp5

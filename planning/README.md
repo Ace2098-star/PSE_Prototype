@@ -11,7 +11,7 @@ In universities, students face a multitude of challenges, whether it can be from
 
 
 ## Product Vision Statement
-For university students who struggle to maintain mental fitness, Burnout Detection Companion (BuDCo) is a software system designed to monitor their internal exhaustion on a daily basis. Unlike any other burnout tracking software, our product is intended on providing simple yet effective features along with an easy-to-use user interface. <br><br>
+For university students who struggle to maintain mental fitness, Burnout Detection Companion (BuDCo) is a software system designed to monitor their internal exhaustion on a daily basis. Unlike any other burnout tracking software, our product is intended on providing simple yet effective features along with an easy-to-use user interface. <br><br><br><br><br>
 
 
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/6cc4d91d2376615a10600464893582dc6d2fa5d9/WhatsApp%20Image%202026-03-11%20at%2021.40.51.jpeg)

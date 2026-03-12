@@ -11,7 +11,7 @@
 
 
 ### Sign In
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="700" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/d6ae98d011b6f55b07b1947431afede61d0f2d3b/WhatsApp%20Image%202026-03-12%20at%2013.00.55%20(1).jpeg" height="700" width="400">
 
 
 ### Dashboard (Home Screen)

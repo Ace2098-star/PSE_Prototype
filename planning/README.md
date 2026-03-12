@@ -35,25 +35,25 @@ Sprint 4: Completed on 11th March <br><br>
 
 ## Sprint Notes
 #### Sprint 1:
-Sprint Goal: Project planning, gathering requirements analysis, and choosing the purpose of the system.
-Tasks Completed: Project planning, requirement analysis, research & domain understanding.
-Challenges: Coming up with a specific use of the system towards helping individuals.
-Outcome: Probelm statement, product vision, target users, and objectives.
+Sprint Goal: Project planning, gathering requirements analysis, and choosing the purpose of the system.<br>
+Tasks Completed: Project planning, requirement analysis, research & domain understanding.<br>
+Challenges: Coming up with a specific use of the system towards helping individuals.<br>
+Outcome: Probelm statement, product vision, target users, and objectives.<br><br>
 
 #### Sprint 2:
-Sprint Goal: Creating system features, use case and class diagrams, and the prototype UI layout and design. 
-Tasks Completed: Design tasks, database schema design, prototyping tasks.
-Challenges: Deciding on necessary and impactful features.
-Outcome: Use case and class diagrams, UI wireframes, screens flow diagram, and the prototype UI.
+Sprint Goal: Creating system features, use case and class diagrams, and the prototype UI layout and design. <br>
+Tasks Completed: Design tasks, database schema design, prototyping tasks.<br>
+Challenges: Deciding on necessary and impactful features.<br>
+Outcome: Use case and class diagrams, UI wireframes, screens flow diagram, and the prototype UI.<br><br>
 
 #### Sprint 3:
-Sprint Goal: Ensure prototype testing meets user needs and initiating finalization.
-Tasks Completed: Implementing tasks into system, testing tasks, user testing, and bug fixes.
-Challenges: Time taken for testing and feedback exceeded the expected deadline.
-Outcome: Prototype system.
+Sprint Goal: Ensure prototype testing meets user needs and initiating finalization.<br>
+Tasks Completed: Implementing tasks into system, testing tasks, user testing, and bug fixes.<br>
+Challenges: Time taken for testing and feedback exceeded the expected deadline.<br>
+Outcome: Prototype system.<br><br>
 
 #### Sprint 4:
-Sprint Goal: Deployment and Maintenance of the project.
-Tasks Completed: Release preparations, documentation, and maintenance.
-Challenges: Documentation required additional time and effort.
+Sprint Goal: Deployment and Maintenance of the project.<br>
+Tasks Completed: Release preparations, documentation, and maintenance.<br>
+Challenges: Documentation required additional time and effort.<br>
 Outcome: Maintaining the system fucntions properly and finalising documentation.

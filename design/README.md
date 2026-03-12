@@ -1,4 +1,4 @@
-# System designs folder - Use Case Diagram/Class Diagram Drafts and Final Results/Wireframes
+# System designs folder - Use case diagram/Class diagram drafts and Final results/Wireframes
 
 ## Use Case Diagram Draft:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/0077d61d89251fbc8aa6a4eaddb90b2cacbd4454/IMG-20260306-WA0001.jpg)

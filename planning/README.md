@@ -11,7 +11,29 @@ In universities, students face a multitude of challenges, whether it can be from
 
 
 ## Product Vision Statement
-For university students who struggle to maintain mental fitness, Burnout Detection Companion (BuDCo) is a software system designed to monitor their internal exhaustion on a daily basis. Unlike any other burnout tracking software, our product is intended on providing simple yet effective features along with an easy-to-use user interface. <br><br><br><br><br>
+For university students who struggle to maintain mental fitness, Burnout Detection Companion (BuDCo) is a software system designed to monitor their internal exhaustion on a daily basis. Unlike any other burnout tracking software, our product is intended on providing simple yet effective features along with an easy-to-use user interface. <br><br><br><br>
+
+
+## Requirements:
+
+### Functional Requirements
+-Allow students to register and login <br>
+-Allow students to set study sessions <br>
+-Allow students to generate burnout risk report <br>
+-Allow students and counsellor to view burnout risk report <br>
+-Allow students to view academic performance chart <br>
+-Students can receive burnout alerts <br>
+-Students can access counselling services <br>
+-Allow students to communicate with friends for peer support <br>
+-Allow students to track their mood daily <br>
+-Allows counsellors to manage counselling booking <br>
+-Students can receive notification from counsellors <br>
+-Counsellors can send notifications to students <br>
+-Students can track their task completion <br>
+-Administrators can manage user accounts <br>
+-Counsellors can share stress management tips <br>
+-Student can view club & societies suggestions<br>
+ 
 
 
 ## Trello Progress (from 25th February)

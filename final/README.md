@@ -23,7 +23,7 @@
 
 
 ### Academic Tracker
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="700" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/e61faacd84e396cc3bc05e19f0bf8626cb261e58/WhatsApp%20Image%202026-03-12%20at%2013.00.56%20(1).jpeg" height="700" width="400">
 
 
 ### Mood Tracker

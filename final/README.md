@@ -47,11 +47,11 @@
 
 
 ### Counselling Support
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/944ac05cdcbef0e047324c799972d4d8a3a45ce4/WhatsApp%20Image%202026-03-12%20at%2013.00.57%20(3).jpeg" height="900" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/944ac05cdcbef0e047324c799972d4d8a3a45ce4/WhatsApp%20Image%202026-03-12%20at%2013.00.57%20(3).jpeg" height="900" width="400"><br><br>
 
 
 ### Clubs & Societies
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/56acad60ac5f356819979e73a6ef8c99208bf0f8/WhatsApp%20Image%202026-03-12%20at%2013.00.58.jpeg" height="900" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/56acad60ac5f356819979e73a6ef8c99208bf0f8/WhatsApp%20Image%202026-03-12%20at%2013.00.58.jpeg" height="900" width="400"><br><br><br><br>
 
 
 ## Summary Of Results:

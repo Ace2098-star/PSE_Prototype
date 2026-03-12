@@ -1,4 +1,4 @@
-# Testing folder - test plans/test cases
+# Testing folder - Test plans/Test cases
 
 ## Test Plan:<br>
 

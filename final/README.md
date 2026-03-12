@@ -31,7 +31,7 @@
 
 
 ### Friends Chat
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="900" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/a541113f350abab100d6e18d43534e4fffdb2e18/WhatsApp%20Image%202026-03-12%20at%2013.00.56%20(3).jpeg" height="900" width="400">
 
 
 ### Burnout Risk

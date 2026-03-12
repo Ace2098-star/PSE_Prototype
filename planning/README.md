@@ -34,4 +34,26 @@ Sprint 4: Completed on 11th March <br><br>
 
 
 ## Sprint Notes
+#### Sprint 1:
+Sprint Goal: Project planning, gathering requirements analysis, and choosing the purpose of the system.
+Tasks Completed: Project planning, requirement analysis, research & domain understanding.
+Challenges: Coming up with a specific use of the system towards helping individuals.
+Outcome: Probelm statement, product vision, target users, and objectives.
 
+#### Sprint 2:
+Sprint Goal: Creating system features, use case and class diagrams, and the prototype UI layout and design. 
+Tasks Completed: Design tasks, database schema design, prototyping tasks.
+Challenges: Deciding on necessary and impactful features.
+Outcome: Use case and class diagrams, UI wireframes, screens flow diagram, and the prototype UI.
+
+#### Sprint 3:
+Sprint Goal: Ensure prototype testing meets user needs and initiating finalization.
+Tasks Completed: Implementing tasks into system, testing tasks, user testing, and bug fixes.
+Challenges: Time taken for testing and feedback exceeded the expected deadline.
+Outcome: Prototype system.
+
+#### Sprint 4:
+Sprint Goal: Deployment and Maintenance of the project.
+Tasks Completed: Release preparations, documentation, and maintenance.
+Challenges: Documentation required additional time and effort.
+Outcome: Maintaining the system fucntions properly and finalising documentation.

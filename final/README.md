@@ -55,3 +55,4 @@
 
 
 ## Summary Of Results:
+Agile Scrum methodology gave us a great learning experience on dealing with a real world scenario. The short sprints enabled us to work effectively and efficiently by spliting ourselves for the tasks, teamwork and communication played a part in the success of our project. Furthermore, tools such as Trello and GitHub increased our skills and understanding on how to manage tasks as well as managing progress. Our skills also improved when it came to designing the diagrams, creating system features, and requirement planning. Moreover, we were able to present our work in a an organised manner thanks to the strong structured project management which resulted in iterative development, allowing us to receive early feedback and continue improving the system. In conclusion, this project built ourselves in handling planning, time management, constant collaboration and continuous improvement when developing a prototype.

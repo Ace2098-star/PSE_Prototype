@@ -1,4 +1,4 @@
-# Final deliverables folder - prototype screenshots/summary of results
+# Final deliverables folder - Prototype screenshots/Summary of results
 
 ## Prototype Screenshots:
 

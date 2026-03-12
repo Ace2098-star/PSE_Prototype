@@ -27,7 +27,7 @@
 
 
 ### Mood Tracker
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="900" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/a789f73130dae1791dade11c3818068eaea2be59/WhatsApp%20Image%202026-03-12%20at%2013.00.56%20(2).jpeg" height="900" width="400">
 
 
 ### Friends Chat

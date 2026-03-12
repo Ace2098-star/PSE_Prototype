@@ -32,8 +32,21 @@ For university students who struggle to maintain mental fitness, Burnout Detecti
 -Students can track their task completion <br>
 -Administrators can manage user accounts <br>
 -Counsellors can share stress management tips <br>
--Student can view club & societies suggestions<br>
- 
+-Student can view club & societies suggestions<br><br>
+
+### Non-Functional Requirements
+-Easy to use <br>
+-Secure user password and personal data <br>
+-Fast response time <br>
+-Accessible on mobile devices <br>
+-Provide a simple and user-friendly interface <br>
+-Operate reliably without frequent errors <br>
+-Preventing unauthorized access <br>
+-Work on both Android and iOS systems <br>
+-Adding a new feature without breaking existing functions <br>
+-Fixing bugs quickly <br>
+-Can update to support new regulations <br>
+-Available 24/7 <br><br><br><br>
 
 
 ## Trello Progress (from 25th February)

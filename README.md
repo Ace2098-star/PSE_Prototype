@@ -9,7 +9,7 @@ SDG 3: Good Health and Well-Being <br><br>
 - Responsible for assignment report, software features and requirements, use case diagram, class diagram. 
 
 ### Abdulrahman Mahgoub (0386447)(Development Team) 
-- Responsible for creating UI wireframes and prototype design.
+- Responsible for creating UI wireframes and prototype development.
 
 ### Chan Li Jin (0388094)(Scrum Master) 
 - Responsible for managing Agile process, Trello board, monitoring sprint progress.

@@ -43,5 +43,5 @@ User class was implemented to ensure inheritance for Student, Counselor, and Adm
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1968ebc4de54dcc088bf1c5be933dc799658a06f/WhatsApp%20Image%202026-03-10%20at%2010.46.37.jpeg" height="506" width="400">
 
 
-## BudCo Screens Flow Diagram
+## BudCo Screens Flow Diagram:
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/20c18e0e99312d7139e21e5b1341cdbd2098faa3/BuDCo%20Screens%20Flow%20Diagram.png" height="900" width="700">

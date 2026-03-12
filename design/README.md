@@ -6,7 +6,7 @@ Actors and initial features implemented, two main actors which are Student and S
 
 
 ## Use Case Diagram Finalized Version:
-![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/3c621e7d3f8f53c25ce686e1bd3108b868abb247/WhatsApp%20Image%202026-03-07%20at%2023.02.24.jpeg)
+![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/34fd8fd65e6391c739be6eb7fc039c3f4205deb4/WhatsApp%20Image%202026-03-12%20at%2011.30.44.jpeg)
 Added feature of stress management tips, where students can view tips, save them and view the saved tips. 
 
 

@@ -9,13 +9,13 @@ SDG 3: Good Health and Well-Being <br><br>
 - Responsible for assignment report, software features and requirements, use case diagram, class diagram. 
 
 ### Abdulrahman Mahgoub (0386447)(Development Team) 
-- Responsible for creating UI wireframes and prototype.
+- Responsible for creating UI wireframes and prototype design.
 
 ### Chan Li Jin (0388094)(Scrum Master) 
 - Responsible for managing Agile process, Trello board, monitoring sprint progress.
 
 ### Maaz Khan (Development Team) 
-- Responsible for <br><br>
+- Responsible for prototype testing, creating test cases and obtaining feedback.<br><br>
 
 # Project Description
 For university students who struggle to maintain mental fitness, Burnout Detection Companion (BuDCo) is a software designed to monitor their internal exhaustion on a daily basis. Unlike any other burnout tracking softwares, our product is intended on providing simple yet effective features along with an easy-to-use user interface. <br><br>

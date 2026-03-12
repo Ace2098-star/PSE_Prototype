@@ -43,7 +43,7 @@
 
 
 ### AI Recommendations
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="900" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/d53cf24c7fab0badf7d66746efa6b4ede1874c8c/WhatsApp%20Image%202026-03-12%20at%2013.00.57%20(2).jpeg" height="900" width="400">
 
 
 ### Counselling Support

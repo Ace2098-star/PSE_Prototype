@@ -14,7 +14,7 @@ SDG 3: Good Health and Well-Being <br><br>
 ### Chan Li Jin (0388094)(Scrum Master) 
 - Responsible for managing Agile process, Trello board, monitoring sprint progress.
 
-### Maaz Khan (Development Team) 
+### Maaz Khan (0371146)(Development Team) 
 - Responsible for prototype development, prototype testing and obtaining feedback.<br><br>
 
 # Project Description

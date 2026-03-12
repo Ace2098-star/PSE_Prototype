@@ -3,7 +3,7 @@
 ## Prototype Screenshots:
 
 ### Splash Screen
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/77717769cedd8b310c4841da32c6a6d335edfa4d/WhatsApp%20Image%202026-03-10%20at%2010.46.34%20(2).jpeg" height="506" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="506" width="400">
 
 
 ### Sign Up

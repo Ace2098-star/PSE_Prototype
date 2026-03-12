@@ -19,7 +19,7 @@
 
 
 ### Study Timer
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1ba813d31860f5e6064c6350662eb861f0eda035/WhatsApp%20Image%202026-03-12%20at%2013.00.55.jpeg" height="700" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/3f3af841e1ebf42552d44712e64730337fe09a39/WhatsApp%20Image%202026-03-12%20at%2013.00.56.jpeg" height="700" width="400">
 
 
 ### Academic Tracker

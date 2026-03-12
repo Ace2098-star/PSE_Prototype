@@ -2,28 +2,28 @@
 
 ## Use Case Diagram Draft:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/0077d61d89251fbc8aa6a4eaddb90b2cacbd4454/IMG-20260306-WA0001.jpg)
-Actors and initial features implemented, two main actors which are Student and Staff. Staff consists of Counselors and Administrators. Features are added along with different operations for each actor. 
+Actors and initial features implemented, two main actors which are Student and Staff. Staff consists of Counselors and Administrators. Features are added along with different operations for each actor. <br><br>
 
 
 ## Use Case Diagram Finalized Version:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/34fd8fd65e6391c739be6eb7fc039c3f4205deb4/WhatsApp%20Image%202026-03-12%20at%2011.30.44.jpeg)
-Added feature of stress management tips, where students can view tips, save them and view the saved tips. 
+Added feature of stress management tips, where students can view tips, save them and view the saved tips. <br><br>
 
 
 
 ## Class Diagram Draft #1: 
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/8c95fd90d6ff9f672931667ebb0385132785c19d/Screenshot%202026-03-05%20130309.png)
-Student, Counselor, and Administrator classes created as well as early association of the feature classes. Initial attributes and simple operations were constructed.
+Student, Counselor, and Administrator classes created as well as early association of the feature classes. Initial attributes and simple operations were constructed.<br><br>
 
 
 ## Class Diagram Draft #2:
 ![image alt](https://github.com/Ace2098-star/PSE_Prototype/blob/d03f5d854b5186b99716ab8e4b5278ca88099c69/Screenshot%202026-03-07%20125112.png)
-Completed classes of users and features which are all well associated. Attributes and operations of all classes were added.
+Completed classes of users and features which are all well associated. Attributes and operations of all classes were added.<br><br>
 
 
 ## Class Diagram Finalized Version:
 ![image_alt](https://github.com/Ace2098-star/PSE_Prototype/blob/2a247e598561823f0062977866e921221bfc16b1/Screenshot%202026-03-10%20142739.png)
-User class was implemented to ensure inheritance for Student, Counselor, and Administrator classes. A single ClubsAndSocieties class was added to prevent class duplications, operations for both Student and Counselor have been merged. Multiplicity relationships between classes were included to finalize the diagram.
+User class was implemented to ensure inheritance for Student, Counselor, and Administrator classes. A single ClubsAndSocieties class was added to prevent class duplications, operations for both Student and Counselor have been merged. Multiplicity relationships between classes were included to finalize the diagram.<br><br><br><br>
 
 
 
@@ -40,7 +40,7 @@ User class was implemented to ensure inheritance for Student, Counselor, and Adm
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/e958c86b4fc23530ca68f32630670bc558bb27c5/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(1).jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/6e26c14bda00fba1aa9e45b5a41b497d2933f7c7/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(2).jpeg" height="506" width="400">
 <img src="https://github.com/Ace2098-star/PSE_Prototype/blob/4728b388878682dfe8b687e710d8dcf2750a505d/WhatsApp%20Image%202026-03-10%20at%2010.46.36%20(3).jpeg" height="506" width="400">
-<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1968ebc4de54dcc088bf1c5be933dc799658a06f/WhatsApp%20Image%202026-03-10%20at%2010.46.37.jpeg" height="506" width="400">
+<img src="https://github.com/Ace2098-star/PSE_Prototype/blob/1968ebc4de54dcc088bf1c5be933dc799658a06f/WhatsApp%20Image%202026-03-10%20at%2010.46.37.jpeg" height="506" width="400"><br><br><br><br>
 
 
 ## BudCo Screens Flow Diagram:
